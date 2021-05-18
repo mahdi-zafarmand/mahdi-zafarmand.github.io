@@ -96,7 +96,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Mahdi Zafarmand, Mohammadmahdi Zafarmand, m.zafarmand, machine learning, data mining, data science, deep learning"
 
 # --- Colours / background image --- #
 
@@ -196,7 +196,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Canada/Edmonton"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

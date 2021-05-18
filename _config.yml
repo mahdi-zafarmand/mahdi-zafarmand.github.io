@@ -24,7 +24,7 @@ navbar-links:
     - BSc (University of Tehran): "BSc_TA"
     - MSc (University of Tehran) : "MSc_TA"
   Publication: "publication"
-  About Me: "aboutme"
+#   About Me: "aboutme"
 
 # --- Logo --- #
 

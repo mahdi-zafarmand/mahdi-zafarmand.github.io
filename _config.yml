@@ -14,6 +14,9 @@ description: A Computer Science Gradute from UofA
 # Your name to show in the footer
 author: Mahdi Zafarmand
 
+# Character used to separate site title and description in HTML document title
+title-separator: "-"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:

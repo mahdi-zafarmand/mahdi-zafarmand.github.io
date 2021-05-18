@@ -6,19 +6,22 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: About Mahdi
 
 # Your name to show in the footer
-author: Some Person
+author: Mahdi Zafarmand
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Projects: 
+    - BSc (University of Tehran): "BSc_Projects"
+    - MSc (University of Tehran): "MSc_Projects"
+  Teaching Assistantships:
+    - BSc (University of Tehran): "BSc_TA"
+    - MSc (University of Tehran) : "MSc_TA"
+  Publication: "publication"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
